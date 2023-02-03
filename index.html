@@ -17,6 +17,16 @@
     <input type="range" min="1" max="100" value="50" class="slider" name='slider' id="slider">
     <div class='slider-button'></div>
   </div>
+  
+  
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+      <script id="rendered-js" >
+$("#slider").on("input change", e => {
+  const sliderPos = e.target.value;
+  $('.foreground-img').css('width', `${sliderPos}%`);
+  $('.slider-button').css('left', `calc(${sliderPos}% - 18px)`);
+});
+  </script>
+  
 </body>
-
 </html>
