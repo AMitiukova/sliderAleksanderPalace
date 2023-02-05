@@ -29,10 +29,10 @@ body {
   background-size: 900px 100%;
 }
 .container .background-img {
-  background-image: url("https://github.com/AMitiukova/sliderAleksanderPalace/blob/911b37c25e05acd85657c4cebe874db1960138d2/images/purple_after1.jpg");
+  background-image: url("https://AMitiukova.github.io/sliderAleksanderPalace/images/reception_after1.jpg");
 }
 .container .foreground-img {
-  background-image: url("https://github.com/AMitiukova/sliderAleksanderPalace/blob/911b37c25e05acd85657c4cebe874db1960138d2/images/purple_before1.jpg");
+  background-image: url("https://AMitiukova.github.io/sliderAleksanderPalace/images/reception_before1.jpg");
   width: 50%;
 }
 .container .slider {
