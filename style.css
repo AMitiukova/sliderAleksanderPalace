@@ -29,10 +29,10 @@ body {
   background-size: 900px 100%;
 }
 .container .background-img {
-  background-image: url("https://AMitiukova.github.io/sliderAleksanderPalace/images/staircase_after.jpg");
+  background-image: url("https://AMitiukova.github.io/sliderAleksanderPalace/images/reception_after1.jpg");
 }
 .container .foreground-img {
-  background-image: url("https://AMitiukova.github.io/sliderAleksanderPalace/images/staircase_before.jpg");
+  background-image: url("https://AMitiukova.github.io/sliderAleksanderPalace/images/reception_before1.jpg");
   width: 50%;
 }
 .container .slider {
